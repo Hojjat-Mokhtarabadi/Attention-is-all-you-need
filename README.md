@@ -12,18 +12,18 @@ Some intuitive blog posts on transformer:
 - [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
-## Requirements
+### Requirements
 - Python = 3.7
 - Pytorch = 1.9
 
-## Install
+### Install
 ```bash
 git clone https://github.com/Hojjat-Mokhtarabadi/Attention-is-all-you-need.git
 cd Attention-is-all-you-need
 python3 -m pip install -r requirements.txt
 ```
 
-## Train
+### Train
 ```bash
 bash run.sh
 ```
