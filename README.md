@@ -25,6 +25,7 @@ python3 -m pip install -r requirements.txt
 
 ### Train
 ```bash
-bash run.sh
+cd src
+bash ../run.sh
 ```
 
